@@ -1,5 +1,4 @@
 import React from "react";
-// import hand from "../../assets/hand.png";
 import hand from "../../assest/hand.png"
 
 const Data = () => {
