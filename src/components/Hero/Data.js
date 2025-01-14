@@ -1,11 +1,11 @@
 import React from "react";
-import hand from "../../assest/hand.png";
+import handImage from "../../assets/hand.png";
 
 const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Mudassar Kareem <img src={hand} alt="waving_hand" className="home__hand" />
+        Mudassar Kareem <img src={handImage} alt="waving_hand" className="home__hand" />
       </h1>
       <h3 className="home__subtitle">Mern Stack Developer</h3>
       <p className="home__description">
