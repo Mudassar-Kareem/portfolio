@@ -1,5 +1,5 @@
 import React from "react";
-import hand from "../../assest/hand.png"
+import hand from "../../assest/hand.png";
 
 const Data = () => {
   return (
