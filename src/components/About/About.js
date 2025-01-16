@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Hey, my name is Mudassar Kareem, and I'm a Full Stack Developer. My passion
+            Hey, my name is Mudassar Kareem, and I'm a Mern Stack Developer. My passion
             is to create and develop a clean UI/UX for my users.
             <br />
             <br />
