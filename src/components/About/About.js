@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import AboutImg from "../../assets/me.jpg";
-
+import Resume from "../../assets/Mudassar_Kareem_Resume.pdf";
 import Info from "./Info.js";
 
 const About = () => {
@@ -21,7 +21,7 @@ const About = () => {
             My main stack currently includes MongoDB, Express.js, React/Next.js,
             and Node.js, often enhanced with tools like Tailwind CSS.
           </p>
-          {/* <a download="" href={Resume} className="button button--flex">
+        <a download="" href={Resume} className="button button--flex">
             Download Resume
             <svg
               className="button__icon"
@@ -48,7 +48,7 @@ const About = () => {
                 fill="var(--container-color)"
               ></path>
             </svg>
-          </a> */}
+          </a> 
         </div>
       </div>
     </section>
