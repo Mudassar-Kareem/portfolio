@@ -29,6 +29,7 @@ const projectsData = [
     description:
       "HR Flow is an employee attendance system where admins manage employee details and attendance, while employees log in to view their information and attendance records.",
     code: "https://github.com/Mudassar-Kareem/Heflow",
+    url:"https://hr-flow-client.vercel.app/"
     category: "fullstack",
   },
   {
