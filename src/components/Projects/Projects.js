@@ -50,11 +50,12 @@ const projectsData = [
     category: "frontend",
   },
   {
-    id: 6,
-    title: "Multi-Vendor Platform",
+   id: 6,
+    title: "Smart Serve",
     description:
-      "A multi-vendor e-commerce platform enabling vendors to list products and buyers to shop seamlessly. Integrated with Socket.io for real-time messaging and notifications, ensuring efficient communication and an enhanced user experience.",
-    code: "https://github.com/Mudassar-Kareem/eshop",
+      "Smart Serve is a MERN-based web app that lets customers scan a restaurant’s QR code to view the menu and place orders without logging in. Restaurants manage orders, menus, and payments, while admins control access by activating or deactivating restaurant accounts.",
+    url: "https://smartserve-seven.vercel.app",
+    code: "https://github.com/Mudassar-Kareem/smart-serve",
     category: "fullstack",
   },
 ];
