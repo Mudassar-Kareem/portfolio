@@ -45,7 +45,7 @@ const projectsData = [
     title: "The Fit Club",
     description:
       "This is a platform tailored for fitness enthusiasts, offering dynamic and engaging content.",
-    // url: "https://thefitclub-web.netlify.app",
+    url: "https://fit-club-iota.vercel.app",
     code: "https://github.com/Mudassar-Kareem/FitClub",
     category: "frontend",
   },
